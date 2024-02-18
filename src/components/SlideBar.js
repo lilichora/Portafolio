@@ -130,7 +130,7 @@ export default function Slidebar() {
         <div
           title="Github"
           onClick={() =>
-            window.open("https://github.com/daniel-jebarson", "_blank")
+            window.open("https://github.com/lilichora", "_blank")
           }
         >
           <GitHubIcon className="cursor-pointer hover:scale-105" />
@@ -138,7 +138,7 @@ export default function Slidebar() {
         <div
           title="Instagram"
           onClick={() =>
-            window.open("https://www.instagram.com/daniel_diago2003", "_blank")
+            window.open("https://www.instagram.com/liliiyta/", "_blank")
           }
         >
           {" "}
@@ -148,7 +148,7 @@ export default function Slidebar() {
           title="Linkedin"
           onClick={() =>
             window.open(
-              "https://www.linkedin.com/in/daniel-jebarson-k-a727a822a",
+              "https://www.linkedin.com/in/liliana-chora-92283b282/",
               "_blank"
             )
           }
@@ -159,7 +159,7 @@ export default function Slidebar() {
         <div
           title="Facebook"
           onClick={() =>
-            window.open("https://www.facebook.com/daniel.jebarson.9", "_blank")
+            window.open("https://www.facebook.com/lilita.choramonar?locale=es_LA", "_blank")
           }
         >
           <FacebookIcon className="cursor-pointer hover:scale-105" />
